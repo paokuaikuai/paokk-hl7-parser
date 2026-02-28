@@ -22,18 +22,6 @@ A lightweight and easy-to-use HL7 parser for Java that simplifies the process of
 - Java 8 or higher
 - Maven for dependency management
 
-### Installation
-
-Add the following dependency to your Maven project:
-
-```xml
-<dependency>
-    <groupId>org.paokk</groupId>
-    <artifactId>paokk-hl7-parser</artifactId>
-    <version>1.0</version>
-</dependency>
-```
-
 ### Basic Usage
 
 #### 1. Parse HL7 text and access fields directly
